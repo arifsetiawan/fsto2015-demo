@@ -25,6 +25,7 @@ body {
 	color: white;
 	padding-left: 20px;
 	line-height: 50px;
+	float: left;
 }
 
 .header-links {
